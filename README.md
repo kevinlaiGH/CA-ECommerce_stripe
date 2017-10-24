@@ -1,5 +1,9 @@
 # README
 
+##Entity Relationship Diagram
+
+![alt Entity Relationship Diagram](/public/ecommerce_erd.png?raw=true)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
